@@ -15,7 +15,7 @@ I Love coding! I mainly spend my time using HTML, JavaScript, CSS, Python, And s
 
 - In my free time, I enjoy soccer, and programming.
 
-My languagesand tools are:
+My languages and tools are:
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
