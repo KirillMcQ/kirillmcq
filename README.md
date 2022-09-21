@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KirillMcQ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Center the below text -->
 <div id="content" align="center">
 
