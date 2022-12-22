@@ -7,15 +7,14 @@
 <!-- Center the below text -->
 <div id="content" align="center">
 
-I Love coding! I mainly spend my time using HTML, JavaScript, CSS, Python, And sometimes C
+I like coding and rockets. Main languages: C++, C, HTML CSS JS, and when I absolutely have to, Java...
 
 </div>
 
-- I am a student and I enjoy learning new things.
+- I am a student.
 
-- I am learning more web development and I am looking forward to learning more about it.
+- I am making a rocket, you can find mission control software on my account, and sometime I will post avionics.
 
-- In my free time, I enjoy soccer, and programming.
 
 My languages and tools are:
 
